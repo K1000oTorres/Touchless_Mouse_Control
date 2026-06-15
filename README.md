@@ -89,7 +89,7 @@ The left mouse button remains pressed while the gesture is maintained.
 
 Raise only the little finger.
 
-![Scroll Up](gestures/Scroll_up.png)
+![Scroll Up](gestures/Scrolling_up.png)
 
 ---
 
@@ -97,7 +97,7 @@ Raise only the little finger.
 
 Raise only the index finger.
 
-![Scroll Down](gestures/Scroll_down.png)
+![Scroll Down](gestures/Scrolling_down.png)
 
 ---
 
@@ -109,7 +109,7 @@ Keep the ring and little fingers down.
 
 Separate the index and middle fingers.
 
-![Zoom In](gestures/Zoom_in.png)
+![Zoom In](gestures/Zooming_in.png)
 
 ---
 
@@ -121,7 +121,7 @@ Keep the ring and little fingers down.
 
 Bring the index and middle fingers close together.
 
-![Zoom Out](gestures/Zoom_out.png)
+![Zoom Out](gestures/Zooming_out.png)
 
 ## Technologies
 
