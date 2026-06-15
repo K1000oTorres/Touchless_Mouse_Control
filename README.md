@@ -9,7 +9,7 @@ The system also includes session recording, gesture visualization, and a securit
 ## Demo
 
 <p align="center">
-  <img src="Demo/demo.gif" alt="Touchless Mouse Control Demo" width="700">
+  <img src="demo/demo.gif" alt="Touchless Mouse Control Demo" width="700">
 </p>
 
 ---
