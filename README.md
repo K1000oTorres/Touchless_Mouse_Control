@@ -272,14 +272,6 @@ Examples:
 ## License
 
 This project is released under the MIT License.
-<<<<<<< HEAD
-=======
-
----
-
-## Author
-
-Juan Camilo Torres
 
 GitHub:
 https://github.com/K1000oTorres
