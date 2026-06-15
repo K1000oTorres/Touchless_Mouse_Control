@@ -95,7 +95,7 @@ The left mouse button remains pressed while the gesture is maintained.
 
 Raise only the little finger.
 
-![Scroll Up](gestures/Scroll_up.png)
+![Scroll Up](gestures/Scrolling_up.png)
 
 ---
 
@@ -103,7 +103,7 @@ Raise only the little finger.
 
 Raise only the index finger.
 
-![Scroll Down](gestures/Scroll_down.png)
+![Scroll Down](gestures/Scrolling_down.png)
 
 ---
 
@@ -115,7 +115,7 @@ Keep the ring and little fingers down.
 
 Separate the index and middle fingers.
 
-![Zoom In](gestures/Zoom_in.png)
+![Zoom In](gestures/Zooming_in.png)
 
 ---
 
@@ -127,7 +127,7 @@ Keep the ring and little fingers down.
 
 Bring the index and middle fingers close together.
 
-![Zoom Out](gestures/Zoom_out.png)
+![Zoom Out](gestures/Zooming_out.png)
 
 ## Technologies
 
@@ -214,78 +214,6 @@ This prevents multiple users from interacting with the system simultaneously.
 
 ---
 
-## Gesture Reference
-
-### Cursor Movement
-
-Move your hand naturally to control the mouse cursor.
-
-![Moving Cursor](gestures/Moving_cursor.png)
-
----
-
-### Cursor Freeze
-
-Raise all fingers while keeping the thumb down.
-
-![Cursor Frozen](gestures/Cursor_frozen.png)
-
----
-
-### Left Click
-
-Touch the thumb and index finger together.
-
----
-
-### Right Click
-
-Touch the thumb and middle finger together.
-
----
-
-### Double Click
-
-Touch the thumb and ring finger together.
-
----
-
-### Drag and Drop
-
-Close all fingers.
-
-![Dragging](gestures/Dragging.png)
-
----
-
-### Scroll Up
-
-Raise only the little finger.
-
----
-
-### Scroll Down
-
-Raise only the index finger.
-
----
-
-### Zoom In
-
-Raise index and middle fingers while keeping ring and little fingers down.
-
-Separate the index and middle fingers.
-
----
-
-### Zoom Out
-
-Raise index and middle fingers while keeping ring and little fingers down.
-
-Bring the index and middle fingers close together.
-
----
-
 ## Session Recording
 
 Every application session is automatically recorded.
@@ -344,3 +272,15 @@ Examples:
 ## License
 
 This project is released under the MIT License.
+<<<<<<< HEAD
+=======
+
+---
+
+## Author
+
+Juan Camilo Torres
+
+GitHub:
+https://github.com/K1000oTorres
+>>>>>>> 3d75464cee878a062442738b9317741b69ef680a
