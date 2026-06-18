@@ -9,7 +9,7 @@ The system also includes session recording, gesture visualization, and a securit
 ## Demo
 
 <p align="center">
-  <img src="Demo/Demo.gif" alt="Touchless Mouse Control Demo" width="700">
+  <img src="demo/demo.gif" alt="Touchless Mouse Control Demo" width="700">
 </p>
 
 ---
@@ -272,14 +272,6 @@ Examples:
 ## License
 
 This project is released under the MIT License.
-<<<<<<< HEAD
-=======
-
----
-
-## Author
-
-Juan Camilo Torres
 
 GitHub:
 https://github.com/K1000oTorres
